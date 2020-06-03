@@ -10,7 +10,7 @@ Clone the repo
  ```npm install``` 
 
 ### Mongoose
-I have created an authorization boilerplate to be used in my projects.
+I have created an authorization boilerplate to be used as a sample.
 Where schemas can be added using mongoose that will directly interact with mongoDB. 
 
 ### Environment variables
