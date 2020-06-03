@@ -1,7 +1,7 @@
 # Node.js MongoDB boilerplate
 A web API boilerplate made to be used in projects for database connection using Node.js, MongoDB. 
 
-This is a web API boilerplate to that I use in my different web applications. 
+This is a web API boilerplate that I use in my different web applications. 
 
 ## How to start
 Clone the repo
