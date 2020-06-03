@@ -1,0 +1,21 @@
+{
+  "name": "Generic_Node_DB",
+  "version": "1.0.0",
+  "description": "This is a web api boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.6",
+    "nodemon": "^1.19.1"
+  }
+}
