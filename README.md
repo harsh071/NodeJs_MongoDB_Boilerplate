@@ -25,3 +25,10 @@ To run it in the dev environment
 
 ##### Dev port - ```localhost:5000```
 ##### Prod port = ```process.env.PORT```
+
+
+### Routes
+The examples of routes are which signs the user in or up.
+#### req.body
+```{ email: example@example.com , password : password } ```
+``` /signin or /signup ```
